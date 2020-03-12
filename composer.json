@@ -1,0 +1,55 @@
+{
+    "name":        "chibex/ozioma-laminas",
+    "description": "Laminas module that provides wrapper for ozioma-php API client library.",
+    "type":        "library",
+    "license": "MIT",
+    "homepage":    "https://ozioma.net/",
+    "keywords":    [
+        "ozioma",
+        "module",
+        "laminas",
+        "chibex",
+        "ozioma-php",
+        "sms",
+        "messaging",
+        "message",
+        "api",
+        "newsletter",
+        "birthday",
+        "subscriber",
+        "birthday contact",
+        "birthday sms",
+        "birthday message",
+        "sms newsletter",
+        "contact",
+        "bulk sms"
+    ],
+    "support":     {
+        "docs": "https://ozioma.net/api/docs",
+        "issues": "https://github.com/chibex-tech/ozioma-laminas/issues",
+        "source": "https://github.com/chibex-tech/ozioma-laminas",
+        "rss": "https://github.com/chibex-tech/ozioma-laminas/releases.atom"
+    },
+    "authors":     [
+        {
+            "name": "Chibex Technologies",
+            "email": "info@chibex.net",
+            "homepage": "https://chibex.net",
+            "role": "Owner"
+        }
+    ],
+    "extra": {
+        "laminas": {
+            "component": "Chibex\\Ozioma"
+        }
+    },
+    "require": {
+        "php":                 "^5.6 || ^7.0",
+        "chibex/ozioma-php":   "^1.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Chibex\\Ozioma\\": "src/"
+        }
+    }
+}
