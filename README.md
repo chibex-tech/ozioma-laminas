@@ -248,9 +248,9 @@ If you discover any security related issues, please email chibexme@gmail.com ins
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/chibex/ozioma-php.svg?style=flat-square
+[ico-version]: https://img.shields.io/packagist/v/chibex/ozioma-laminas.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/chibex/ozioma-php.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/chibex/ozioma-laminas.svg?style=flat-square
 
 [link-packagist]: https://packagist.org/packages/chibex/ozioma-laminas
 [link-downloads]: https://packagist.org/packages/chibex/ozioma-laminas
